@@ -9,7 +9,7 @@ Junior - Frontend Developer
 I am passionate about technology and computers. I have been studying programming for over a year on my own, starting as a Frontend Developer. This will be my second year and I have plans to study Backend in order to become a skilled Full Stack Developer one day.
 
 * 🌍  I'm based in Savannakhet, Laos
-* ✉️  You can contact me at [ketsadaphone999@gmail.com](mailto:ketsadaphone999@gmail.com)
+* ✉️  You can contact me at [ketsadaphoneOfficial@gmail.com](mailto:ketsadaphoneOfficial@gmail.com)
 * 🧠  I'm learning NodeJS, ExpressJS and MongoDB
 * ⚡  Introvert, Self Taught Learner and Lone Wolf
 
