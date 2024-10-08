@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://app.daily.dev/jarnketz"><img src="https://api.daily.dev/devcards/v2/PozeA7JPzLh7jBhBg5q5o.png?type=wide&r=ohu" width="652" alt="Ketsadaphone BOUTPANYDA's Dev Card"/></a>
 
-Junior - Frontend Developer
+Frontend Developer
 ---------------------------
 
 I am passionate about technology and computers. I have been studying programming for over a year on my own, starting as a Frontend Developer. This will be my second year and I have plans to study Backend in order to become a skilled Full Stack Developer one day.
