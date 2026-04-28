@@ -1,54 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ketsadaphone BOUTPANYDA
-===============================================================================================================================================
+<div align="center">
 
-<a href="https://app.daily.dev/jarnketz"><img src="https://api.daily.dev/devcards/v2/PozeA7JPzLh7jBhBg5q5o.png?type=wide&r=ohu" width="652" alt="Ketsadaphone BOUTPANYDA's Dev Card"/></a>
+# Ketsadaphone BOUTPANYDA
 
-Frontend Developer
----------------------------
+**`Full-Stack Engineer · Vientiane, Laos`**
 
-I am passionate about technology and computers. I have been studying programming for over a year on my own, starting as a Frontend Developer. This will be my second year and I have plans to study Backend in order to become a skilled Full Stack Developer one day.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+the+web%2C+one+component+at+a+time.;React+%7C+Next.js+%7C+SvelteKit+%7C+TypeScript;Open+to+collaborate+on+interesting+projects.)](https://git.io/typing-svg)
 
-* 🌍  I'm based in Savannakhet, Laos
-* ✉️  You can contact me at [ketsadaphoneOfficial@gmail.com](mailto:ketsadaphoneOfficial@gmail.com)
-* 🧠  I'm learning NodeJS, ExpressJS and MongoDB
-* ⚡  Introvert, Self Taught Learner and Lone Wolf
+<a href="https://app.daily.dev/jarnketz">
+  <img src="https://api.daily.dev/devcards/v2/PozeA7JPzLh7jBhBg5q5o.png?type=wide&r=ohu" width="600" alt="Ketsadaphone BOUTPANYDA's Dev Card"/>
+</a>
 
-### Skills
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketsadaphoneOfficial@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JarnKetz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/jarnketz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JarnKet)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+</div>
 
+---
 
-### Socials
+## About Me
 
-<p align="left"> <a href="https://www.facebook.com/JarnKetz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/JarnKet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jarnketz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+I'm a **self-taught Full-Stack Developer** based in Vientiane, Laos, passionate about building clean, performant web experiences. I started as a Frontend Developer and have since expanded into backend and data engineering — always chasing the full picture.
 
-### Badges
+- 🔭 Currently working as a **Software Engineer at a bank in Laos**, building internal tools and platforms
+- 🎓 Teaching **Python for data analysis** to bank employees
+- 🏆 Competing in **WorldSkills** web technologies
+- 🛠️ Consulting on side projects — from mobile apps to AI automation systems
+- 🐧 Linux enthusiast running **CachyOS + Hyprland** on my ThinkPad Z16
+- 🌱 Constantly leveling up across the stack
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/JarnKet"><img src="https://github-readme-stats.vercel.app/api?username=JarnKet&show_icons=true&hide=&count_private=true&title_color=000000&text_color=0f172a&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="JarnKet's GitHub stats" /></a>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/JarnKet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JarnKet&stroke=0f172a&background=ffffff&ring=000000&fire=000000&currStreakNum=0f172a&currStreakLabel=000000&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<a href="http://www.github.com/JarnKet"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JarnKet&bg_color=ffffff&color=0f172a&line=444e59&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Data & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JarnKet&show_icons=true&count_private=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117&hide_border=true&show_icons=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarnKet&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JarnKet&stroke=c9d1d9&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JarnKet&bg_color=0d1117&color=c9d1d9&line=58A6FF&point=58A6FF&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Profile views**
+
+![Profile Views](https://komarev.com/ghpvc/?username=JarnKet&color=58A6FF&style=flat-square)
+
+*"Code is craft. Ship it with intention."*
+
+</div>
