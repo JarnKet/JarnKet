@@ -24,13 +24,10 @@
 
 ## About Me
 
-I'm a **self-taught Full-Stack Developer** based in Vientiane, Laos, passionate about building clean, performant web experiences. I started as a Frontend Developer and have since expanded into backend and data engineering — always chasing the full picture.
+I'm a **self-taught Software Engineer** based in Vientiane, Laos, passionate about building clean, performant web experiences. I started as a Frontend Developer and have since expanded into backend and data engineering — always chasing the full picture.
 
 - 🔭 Currently working as a **Software Engineer at a bank in Laos**, building internal tools and platforms
-- 🎓 Teaching **Python for data analysis** to bank employees
 - 🏆 Competing in **WorldSkills** web technologies
-- 🛠️ Consulting on side projects — from mobile apps to AI automation systems
-- 🐧 Linux enthusiast running **CachyOS + Hyprland** on my ThinkPad Z16
 - 🌱 Constantly leveling up across the stack
 
 ---
